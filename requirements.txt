@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+python-dateutil
+tqdm
+flask
+jupyter
+notebook
+     # optional but useful for notebook
