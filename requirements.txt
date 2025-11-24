@@ -8,3 +8,4 @@ flask
 jupyter
 notebook
      # optional but useful for notebook
+streamlit
